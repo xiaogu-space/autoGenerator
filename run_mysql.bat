@@ -1,0 +1,1 @@
+java -classpath mybatis-generator-core-1.3.5.jar;mysql-connector-java-5.1.40.jar org.mybatis.generator.api.ShellRunner -configfile mybatisGeneratorConfig.xml
